@@ -6,15 +6,12 @@
 ### 2020校招渠道搜集
 
 #### 阿里巴巴
-1. 阿里集团经济体，扫码这个：  
-<br/>
+1. 阿里集团经济体，扫码这个：        
 ![](https://github.com/GerryIsWarrior/fileCache/blob/master/image/ali-recruit.png)
 
-2. 本地生活BU，扫码这个：     
-<br/>
+2. 本地生活BU，扫码这个：         
 ![](https://github.com/GerryIsWarrior/fileCache/blob/master/image/e-recruit.png)
 
 #### 美团
-1. 内部员工推荐，扫这个：
-<br/>
+1. 内部员工推荐，扫这个：      
 ![](https://github.com/GerryIsWarrior/fileCache/blob/master/image/mt1584609907928.jpg)
