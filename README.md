@@ -24,5 +24,5 @@
 
 #### 字节跳动
 
-1. 校园招聘网址： [校招传送门](https://job.bytedance.com/campus/)
+1. 校园招聘网址： [校招传送门](https://job.bytedance.com/campus/)    
 PS：可填写推荐码 -- PUMMFNG
