@@ -16,7 +16,7 @@
 #### 美团
 
 1. 内部员工推荐，扫这个：      
-<img src="https://github.com/GerryIsWarrior/fileCache/blob/master/image/mt1584609907928.jpg" width="300">
+<img src="https://github.com/GerryIsWarrior/fileCache/blob/master/image/1584622222474.jpg" width="300">
 
 #### bilibili
 
@@ -25,3 +25,4 @@
 #### 字节跳动
 
 1. 校园招聘网址： [校招传送门](https://job.bytedance.com/campus/)
+PS：可填写推荐码 -- PUMMFNG
