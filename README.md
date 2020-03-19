@@ -14,4 +14,4 @@
 
 #### 美团
 1. 内部员工推荐，扫这个：      
-![](https://github.com/GerryIsWarrior/fileCache/blob/master/image/mt1584609907928.jpg)
+<img src="https://github.com/GerryIsWarrior/fileCache/blob/master/image/mt1584609907928.jpg" style="width:200px">
