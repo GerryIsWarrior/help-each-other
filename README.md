@@ -7,11 +7,11 @@
 
 #### 阿里巴巴
 1. 阿里集团经济体，扫码这个：    
-<img src="https://github.com/GerryIsWarrior/fileCache/blob/master/image/ali-recruit.png" style="width:200px">
+<img src="https://github.com/GerryIsWarrior/fileCache/blob/master/image/ali-recruit.png" width="300">
 
 2. 本地生活BU，扫码这个：         
-<img src="https://github.com/GerryIsWarrior/fileCache/blob/master/image/e-recruit.png" style="width:200px">
+<img src="https://github.com/GerryIsWarrior/fileCache/blob/master/image/e-recruit.png" width="300">
 
 #### 美团
 1. 内部员工推荐，扫这个：      
-<img src="https://github.com/GerryIsWarrior/fileCache/blob/master/image/mt1584609907928.jpg" style="width:200px">
+<img src="https://github.com/GerryIsWarrior/fileCache/blob/master/image/mt1584609907928.jpg" width="300">
