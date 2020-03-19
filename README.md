@@ -26,3 +26,7 @@
 
 1. 校园招聘网址： [校招传送门](https://job.bytedance.com/campus/)    
 PS：可填写推荐码 -- PUMMFNG
+
+#### 米哈游
+
+1. 校园招聘网址： [校招传送门](https://join.mihoyo.com/#/?_k=bu0m1e)   
