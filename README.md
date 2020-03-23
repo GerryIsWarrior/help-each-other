@@ -7,16 +7,16 @@
 
 #### 阿里巴巴
 
-1. 阿里集团经济体，扫码这个：    
-<img src="https://github.com/GerryIsWarrior/fileCache/blob/master/image/ali-recruit.png" width="300">
+1. 阿里集团校园招聘网址： [校招传送门](http://alibaba.tupu360.com/campusActivity/getActivityInfo?activityCode=Gw3FPv%2FP5LDgynYHXaAoew_imj1EvMeckZTDkdou4qo%3D&enter=menu)     
+PS：请在微信浏览器里打开！！     
 
-2. 本地生活BU，扫码这个：         
-<img src="https://github.com/GerryIsWarrior/fileCache/blob/master/image/e-recruit.png" width="300">
+2. 本地生活校园招聘网址： [校招传送门](http://alibaba.tupu360.com/campusActivity/getActivityInfo?activityCode=zl%2F2GNb5LNV_%2FgcxAyMM5bW8%2F3FyQtoVN4RVbJNvm6I%3D&enter=menu)     
+PS：请在微信浏览器里打开！！     
 
 #### 美团
 
-1. 内部员工推荐，扫这个：      
-<img src="https://github.com/GerryIsWarrior/fileCache/blob/master/image/1584622222474.jpg" width="300">
+1. 校园招聘网址： [校招传送门](http://dpurl.cn/cvh84Ta)     
+PS：请在微信浏览器里打开！！
 
 #### bilibili
 
